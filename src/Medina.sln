@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medina.Core", "Medina.Core\Medina.Core.csproj", "{17BA2541-DF0E-43D8-9987-AF94731141DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medina.HttpAdapter", "Medina.HttpAdapter\Medina.HttpAdapter.csproj", "{36996E22-6629-4DB7-9803-B75A6B3E4AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medina.Guard", "Medina.Guard\Medina.Guard.csproj", "{84AC195F-9157-4F21-A9E2-EC21524258C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BA2541-DF0E-43D8-9987-AF94731141DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BA2541-DF0E-43D8-9987-AF94731141DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BA2541-DF0E-43D8-9987-AF94731141DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BA2541-DF0E-43D8-9987-AF94731141DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36996E22-6629-4DB7-9803-B75A6B3E4AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36996E22-6629-4DB7-9803-B75A6B3E4AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36996E22-6629-4DB7-9803-B75A6B3E4AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36996E22-6629-4DB7-9803-B75A6B3E4AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AC195F-9157-4F21-A9E2-EC21524258C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AC195F-9157-4F21-A9E2-EC21524258C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AC195F-9157-4F21-A9E2-EC21524258C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AC195F-9157-4F21-A9E2-EC21524258C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
